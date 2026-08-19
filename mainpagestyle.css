@@ -1,0 +1,44 @@
+h1{
+
+    color:white;
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.Yj343FqIDsgNmUVgw0y7YgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3");
+    text-align: center;
+    text-transform: capitalize;
+}
+i
+{
+    color:white;
+    font-weight:bold;
+    text-decoration:underline;
+    text-align: end;
+    line-height:4px;
+    display:inline-block;
+    
+    height:4px;
+    
+    
+}
+b{
+    color:white;
+    
+}
+body{
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.iiB0nrlGFztEJ3cl5741ygHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size:cover;
+}
+h4{
+    color:antiquewhite;
+}
+
+
+a{
+    color:white;
+}
+p{
+    background-image: url("https://tse1.mm.bing.net/th/id/OIP.lSASKB8QRdNd-GBVEfxHLQHaEK?r=0&w=1920&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3");
+    border:2px dotted aliceblue;
+    background-size:cover;
+} 
+li{
+    color:rgb(211, 211, 93);
+}

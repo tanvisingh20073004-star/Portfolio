@@ -1,0 +1,40 @@
+div{
+    background-image:url("https://img.freepik.com/premium-photo/top-view-cherry-halves-deep-red-backdrop_194498-19658.jpg");
+    background-size:cover;
+    height:400px;
+    width:400px;
+    justify-content:center;
+    
+    
+}
+div:hover{
+    background-image:url("https://tse1.mm.bing.net/th/id/OIP.KBoBANFpMeGFMU_3lerVJwHaLG?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"); 
+    transform:rotate(180 deg);
+    color:white;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+    transform:translate(100px,20px);
+    margin-left:200 px;
+    transform: rotate(360 deg);
+}
+h2{
+    color:antiquewhite
+}
+h1{
+    text-align:center;
+    text-decoration: underline;
+    border:2px solid black;
+    color:yellowgreen;
+    background-image: url("https://th.bing.com/th/id/OIGP.WpckUMHREs__o_F0x.Lj?r=0&pid=ImgGn");
+ background-size: cover;
+}
+p{
+    color:yellow;
+}
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/049/333/101/small_2x/branch-of-ripe-cherries-hanging-on-a-red-bokeh-background-photo.jpg");
+    background-size:cover;
+}
+a{
+    color:white;
+}

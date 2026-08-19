@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.j9nakN_8pGWNxrd2Me54EwHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3");
+ color:antiquewhite;
+}
+h1{
+    color:aliceblue;
+    text-align: center;
+    text-decoration:underline;
+}
+h2{
+    text-align:center;
+    text-decoration: double;
+    text-decoration: dotted;
+}
+div
+{
+    border:2px solid white;
+    margin:20px;
+    background-image: url("https://wallpapers.com/images/hd/solid-dark-blue-color-plain-background-nu6eotcnt6g2tssm.jpg");
+    background-size: cover;
+}

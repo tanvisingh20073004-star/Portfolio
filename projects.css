@@ -1,0 +1,22 @@
+body{ 
+    color:aliceblue;
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.P9XAAg9A5gL2rrGpbtOTJgHaEO?r=0&rs=1&pid=ImgDetMain&o=7&rm=3");
+background-size: cover;
+}
+h1{
+    color:antiquewhite;
+    text-align:center;
+    text-decoration: underline;
+    
+}
+video{
+    height:300px;
+    width:300px;
+}
+h3{
+    display:inline-block;
+}
+img {
+    height:300px;
+    width:300px;
+}

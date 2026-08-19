@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://img.freepik.com/premium-vector/modern-dark-blue-abstract-geometric-background-with-dark-modern-triangle-texture-elegant-website-style-vector-design_116849-1059.jpg");
+background-size:cover;
+}
+h1{
+color:aliceblue;
+text-align: center;
+}
+div{
+    color:antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    text-decoration: wavy;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
